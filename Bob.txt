@@ -1,1 +1,2 @@
 Hi, I'm Bob, I'm new here! 
+And this is the second line I'm adding.
