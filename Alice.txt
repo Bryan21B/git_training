@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And this is the second line I'm adding.
 And this is the third line I'm adding.
+And this is the fourth line I'm adding.
